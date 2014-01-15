@@ -19,4 +19,4 @@ $ brew cask install Liya
 
 ## License
 
-MIT License
+[MIT License](https://github.com/mfks17/homebrew-mycask/blob/master/LICENSE)
