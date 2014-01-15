@@ -1,4 +1,4 @@
-class Gyazo < Cask
+class Liya < Cask
   url 'http://cutedgesystems.com/downloads/Liya.zip'
   homepage 'http://cutedgesystems.com/'
   version '2.0.13'
