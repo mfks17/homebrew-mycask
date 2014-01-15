@@ -14,7 +14,7 @@ $ brew tap mfks17/mycask
 You can now install alternate versions of Casks.
 
 ```sh
-$ brew cask install Liya 
+$ brew cask install liya 
 ```
 
 ## License
